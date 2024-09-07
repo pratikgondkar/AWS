@@ -66,8 +66,9 @@ Create a instance for v1 and make the AMI of it.
 ![Screenshot from 2024-01-22 20-07-21](https://github.com/Kiran-dehlikar/test/assets/104997588/727fb960-f2f6-431c-bbb9-d2465a359c7e)
 
 - So due to this v1 replaces the v2 gradually with no downtime.
-![Screenshot from 2024-01-22 15-53-09](https://github.com/Kiran-dehlikar/test/assets/104997588/cfe37b90-0d9d-493f-b526-b0269ced5981)
-![Screenshot from 2024-01-22 16-48-15](https://github.com/Kiran-dehlikar/test/assets/104997588/f4e752ea-59b5-45ff-8469-d62e3ccdb609)
+![Screenshot from 2024-09-05 14-54-11](https://github.com/user-attachments/assets/87be24c7-db33-4cf0-8155-b5baa66e6bac)
+  ![Screenshot from 2024-09-05 15-10-51](https://github.com/user-attachments/assets/1784574e-7ab8-4c66-991f-6a2c7c77001f)
+
 
 
 
