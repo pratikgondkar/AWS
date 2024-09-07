@@ -51,7 +51,23 @@ Create a instance for v1 and make the AMI of it.
 
   ![Screenshot from 2024-09-05 14-58-31](https://github.com/user-attachments/assets/d82754be-3a5d-4ab1-810b-99cc90c3ff1e)
 
-  ![Uploading Screenshot from 2024-09-05 15-10-51.png…]()
+  ![Screenshot from 2024-09-05 15-10-51](https://github.com/user-attachments/assets/1784574e-7ab8-4c66-991f-6a2c7c77001f)
+
+# Rolling Deployment 
+- Here we use same infrastructure as ablove in it.
+- I have 3 servers running in v1 as shown below. By changing the capacity in Autoscaling group.
+![Screenshot from 2024-01-22 19-38-15](https://github.com/Kiran-dehlikar/test/assets/104997588/67550ce0-a374-420e-8f2f-932b56a33299)
+![Screenshot from 2024-01-22 19-39-45](https://github.com/Kiran-dehlikar/test/assets/104997588/bf39b6d6-20a0-4358-b480-6d8df3ece0cc)
+![Screenshot from 2024-01-22 19-39-45](https://github.com/Kiran-dehlikar/test/assets/104997588/694ada25-45f8-496d-98d4-46d96108bd7f)
+
+- It will gradually increase the instances then we change the capacity in autoscaling group to desired as shown in below screenshots.
+![Screenshot from 2024-01-22 20-02-28](https://github.com/Kiran-dehlikar/test/assets/104997588/7e02be20-de8c-4ba4-8668-3e424769220f)
+
+![Screenshot from 2024-01-22 20-07-21](https://github.com/Kiran-dehlikar/test/assets/104997588/727fb960-f2f6-431c-bbb9-d2465a359c7e)
+
+- So due to this v1 replaces the v2 gradually with no downtime.
+![Screenshot from 2024-01-22 15-53-09](https://github.com/Kiran-dehlikar/test/assets/104997588/cfe37b90-0d9d-493f-b526-b0269ced5981)
+![Screenshot from 2024-01-22 16-48-15](https://github.com/Kiran-dehlikar/test/assets/104997588/f4e752ea-59b5-45ff-8469-d62e3ccdb609)
 
 
 
