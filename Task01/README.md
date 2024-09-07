@@ -1,6 +1,6 @@
-## Assignment-01
+# Assignment-01
 
-# load Balancer & Auto Scaling Group
+## load Balancer & Auto Scaling Group
 
 - infrastructure diagram
 
