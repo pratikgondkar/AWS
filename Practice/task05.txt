@@ -1,0 +1,11 @@
+TASK-5
+Create a Instance inside VPC network if already exist if not then make whole infrastructure with the help of aws-cli tool
+Perform operations below through aws-cli:
+
+Start instance
+Stop instance
+Restart instance
+Terminate instance
+Attach IAM role to that instance
+Make ALB internet facing
+Good to do , If above implemented then implement this by aws-cli with single click, first do manually on console

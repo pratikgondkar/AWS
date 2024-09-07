@@ -1,0 +1,10 @@
+TASK -04
+Create a S3 bucket and host a static website of Nginx through S3 feature after that integrate cloudFront service with your S3 bucket to overcome the latency and then access your static website through cloudFront url. Now change the content and hit again remember cache will not be taken at that time
+Things you will learn:
+
+S3
+S3 policy
+Object policy
+cloudFront
+Nginx
+invalidation option

@@ -1,0 +1,9 @@
+
+TASK: 
+
+Create an IAM group named Developers.
+Create two IAM users, dev-user1 and dev-user2 and enable MFA.
+Attach the AmazonEC2ReadOnlyAccess policy to the Developers group.
+Attach the BillingReadOnlyAccess policy to the Developers group.
+Add dev-user1 and dev-user2 to the Developers group.
+Confirm that dev-user1 and dev-user2 can only view EC2 instances and access the Billing dashboard but cannot make any changes.
